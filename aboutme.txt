@@ -1,0 +1,5 @@
+1. concat the all csv file into one
+2. create the new columns month and sale
+3. comvert the type in integer
+4. using groupby we group the sales of month
+5. drow the bar chat of month vs sale
